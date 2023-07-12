@@ -4,8 +4,8 @@ import * as React from "react";
 const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
   fontSize: "1.4em",
-  marginLeft: 96,
-  marginRight: 96,
+  marginLeft: 0,
+  marginRight: 0,
 };
 
 const gteStyles = {
@@ -643,7 +643,7 @@ const IndexPage = () => {
         </q>
         <p style={onRightSideStyles}>
           // 13 Juli 2023, Aleksandr{" "}
-          <a href="mailto:aleksandrvin@gmail.com">aleksandrvin@gmail.com</a>p
+          <a href="mailto:aleksandrvin@gmail.com">aleksandrvin@gmail.com</a>
         </p>
         <p style={onRightSideStyles}>
           // scroll naar beneden voor <a href="#photos">foto's</a>
