@@ -18,6 +18,7 @@ const onRightSideStyles = {
 
 const notes = [
   `Lederen interieur "Nappa" afgewerkt met witte stiksels`,
+  `Standkachel`,
   `Dynamische onderstelregeling DCC`,
   `LED Matrix koplampen IQ-light`,
   `LED Achterlichten`,
