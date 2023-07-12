@@ -643,7 +643,7 @@ const IndexPage = () => {
         </q>
         <p style={onRightSideStyles}>
           // 13 Juli 2023, Aleksandr{" "}
-          <a href="mailto:aleksandrvin@gmail.com">aleksandrvin@gmail.com</a>
+          <a href="mailto:aleksandrvin@gmail.com">aleksandrvin@gmail.com</a>p
         </p>
         <p style={onRightSideStyles}>
           // scroll naar beneden voor <a href="#photos">foto's</a>
@@ -656,6 +656,7 @@ const IndexPage = () => {
           layout="fullWidth"
         />
       </p>
+      <h3>50266 km</h3>
       <p style={onRightSideStyles}>
         // Aleksandr{" "}
         <a href="mailto:aleksandrvin@gmail.com">aleksandrvin@gmail.com</a>
