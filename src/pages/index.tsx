@@ -109,7 +109,7 @@ const options = [
   `Chroom delen exterieur`,
   `Comfortstoel(en)`,
   `Connected services`,
-  `DAB`,
+  `Digitale radio ontvangst DAB`,
   `Dakrails`,
   `Elektrisch bedienbare achterklep met sensorsturing`,
   `Elektrische ramen achter`,
